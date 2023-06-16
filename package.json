@@ -15,13 +15,5 @@
       "url": "https://github.com/Ebony44/MatCreateWindow.git"
     },
     "category": "Tools",
-    "type": "tool",
-    "dependencies": {},
-    "samples": [
-      {
-        "displayName": "Sample",
-        "description": "Sample",
-        "path": "Samples~/Sample"
-      }
-    ]
+    "type": "tool"
   }
