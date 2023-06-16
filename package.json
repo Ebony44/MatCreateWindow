@@ -1,0 +1,27 @@
+{
+    "name": "com.editortool.matcreatewindow",
+    "displayName": "MatCreateWindow",
+    "version": "1.0.0",
+    "unity": "2018.2",
+    "description": "Editor tool material auto create asset with resource of images",
+    "keywords": [
+      "Material",
+      "Editor"
+      
+    ],
+    "author": {
+      "name": "Sandalwood",
+      "email": "ebonytroll@gmial.com",
+      "url": "https://github.com/Ebony44/MatCreateWindow.git"
+    },
+    "category": "Tools",
+    "type": "tool",
+    "dependencies": {},
+    "samples": [
+      {
+        "displayName": "Sample",
+        "description": "Sample",
+        "path": "Samples~/Sample"
+      }
+    ]
+  }
